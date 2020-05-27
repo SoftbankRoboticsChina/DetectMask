@@ -99,8 +99,8 @@ public class MainActivity extends AppCompatActivity implements RobotLifecycleCal
                 @Override
                 public void run() {
                     Config config = new Config();
-                    config.accessKeyId = "LTAI4GFYE5vLr5yAUKY2So8X";
-                    config.accessKeySecret = "R4qsG6ELaP5aJV7F7Zk3knfiYpQiZU";
+                    config.accessKeyId = "######";
+                    config.accessKeySecret = "######";
                     config.type = "access_key";
                     config.regionId = "cn-shanghai";
                     config.endpoint = "facebody.cn-shanghai.aliyuncs.com";
