@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Detect Mask</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="no_face">Sorry, cannot recognize your face.</string>
+    <string name="no_mask">Warning, you don\'t wear face mask.</string>
+    <string name="wrong_mask">Warning, you should wear face mask with correctly.</string>
+    <string name="correctly_mask">Well done, you wear the face mask correctly.</string>
+</resources>

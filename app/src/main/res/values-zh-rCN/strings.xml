@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">口罩检测</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="no_face">没有检测出人脸或人脸清晰度不够</string>
+    <string name="no_mask">您未佩戴口罩，为了您的健康，请正确佩戴口罩</string>
+    <string name="wrong_mask">口罩佩戴不正确，为了您的健康，请正确佩戴口罩</string>
+    <string name="correctly_mask">您已正确佩戴口罩，感谢您为抗击新guan4肺炎做出的努力</string>
+</resources>
