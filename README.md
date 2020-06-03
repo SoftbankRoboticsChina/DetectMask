@@ -1,7 +1,5 @@
 # Pepper Mask Detection
 
-### <font face=red>NOTE: Only AliCloud account in China can use this application.</font>
-
 This is a simple example of a minimally DetectMask application integrated with the third-party SDK from the AliCloud Vision Intelligence Open Platform. 
 
 Pepper will:
@@ -56,12 +54,16 @@ As shown in the  project structure above, the main package is introduced as foll
 
 In order to run this project on Pepper, first of all, you must require the credentail infomation from [AliCloud Vision Intelligence Open Platform](https://vision.aliyun.com), including AccessKey ID and AccessKey Secret.
 
-#### Step 1: Login/Register on AliCloud
+#### Step 1: Login/Register on AliCloud 
+### <font face=red>NOTE: You must register an account from AliCloud China site (A Chinese phone number needed), because only this type of account can active mask detection service.</font>
 
-Login to AliCloud Platform (https://www.aliyun.com/) if you have account, or register one.
+Login to AliCloud Platform (https://www.aliyun.com/) if you have account.
 
 ![DetectMask-1](img/aliyun_cloud.jpg)
 
+Register one if you don't have an account.
+
+![DetectMask-1](img/register_site.jpg)
 
 #### Step 2: Open Mask Detection Service
 
