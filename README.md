@@ -1,6 +1,8 @@
 # Pepper Mask Detection
 
-This is a simple example of a minimally DetectMask application integrated with the third-party SDK from the AliCloud Vision Intelligence Open Platform.
+### <font face=red>NOTE: Only AliCloud account in China can use this application.</font>
+
+This is a simple example of a minimally DetectMask application integrated with the third-party SDK from the AliCloud Vision Intelligence Open Platform. 
 
 Pepper will:
 
@@ -87,7 +89,7 @@ Open successfully.
 
 #### Step 5: Require AccessKey
 
-In the console interface, click on AccessKey in the personal infomation, shown in the picture below
+In the console interface, move your mouse to the profile photo and click on AccessKey in the user infomation, shown in the picture below
 
 ![DetectMask-1](img/console.jpg)
 
